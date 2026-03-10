@@ -48,14 +48,13 @@ This project was approached as a time-series regression problem with the followi
 
 Specific Tools and Techniques
 
-Tool	            Purpose	                        Why Appropriate
----------------------------------------------------------------------------------------------------------------------------------
-PostgreSQL	        Database management	            Handles 29 integrated tables with complex joins; reliable for structured data
-Pandas/NumPy	    Data cleaning and manipulation	Efficient for handling missing values and transforming date formats
-Scikit-learn	    ML model implementation	        Provides consistent API for Linear Regression, Ridge, and Random Forest
-XGBoost	            Gradient boosting comparison	Industry-standard for tabular data; benchmark against simpler models
-Matplotlib/Seaborn	Visualization	                Publication-quality graphs for provincial comparisons
-OpenAI API	       Generative AI	                Translates technical metrics into stakeholder-friendly insights
+Tool	                Purpose	                          Why Appropriate
+PostgreSQL	          Database management	              Handles 29 integrated tables with complex joins; reliable for structured data
+Pandas/NumPy	        Data cleaning and manipulation	  Efficient for handling missing values and transforming date formats
+Scikit-learn	        ML model implementation	          Provides consistent API for Linear Regression, Ridge, and Random Forest
+XGBoost	              Gradient boosting comparison	    Industry-standard for tabular data; benchmark against simpler models
+Matplotlib/Seaborn	  Visualization	                    Publication-quality graphs for provincial comparisons
+OpenAI API	         Generative AI	                    Translates technical metrics into stakeholder-friendly insights
 
 The 29 Datasets
 The project integrates data from multiple Statistics Canada tables:
@@ -143,4 +142,5 @@ What This Project Taught Me
 
 
 - This project taught me that real world data science is 20% modeling and 80% everything else data wrangling, stakeholder communication, and problem framing. The technical skills matter, but judgment about which problems to solve and how to frame solutions matters more.
+
 
