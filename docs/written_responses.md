@@ -20,8 +20,8 @@ Current decision making relies on anecdotal evidence and lagging indicators. Wit
 Who Benefits?
 
 Stakeholder	    How They Benefit
--------------------------------------------------
-Policymakers	Target affordable housing funding to provinces with highest demand
+
+Policymakers	  Target affordable housing funding to provinces with highest demand
 Developers	    Identify growth markets for new construction projects
 Homebuyers	    Understand which regions offer affordable options
 Economists	    Track regional economic indicators for policy planning
@@ -140,5 +140,6 @@ What This Project Taught Me
 - Stakeholder communication is half the job. Generative AI helped translate R² scores into plain language, but I also learned to frame results around the original problem: helping policymakers target housing investments where they're needed most.
 
 - Real-world data is messy. The Statistics Canada data I downloaded looked clean, but it had inconsistent formats, missing values, and column naming issues. Working with real data taught me patience and problem-solving skills no textbook could provide.
+
 
 - This project taught me that real world data science is 20% modeling and 80% everything else data wrangling, stakeholder communication, and problem framing. The technical skills matter, but judgment about which problems to solve and how to frame solutions matters more.
