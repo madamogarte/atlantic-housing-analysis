@@ -19,13 +19,13 @@ Current decision making relies on anecdotal evidence and lagging indicators. Wit
 
 Who Benefits?
 
-Stakeholder	    How They Benefit
+Stakeholder	    -    How They Benefit
 
-Policymakers	  Target affordable housing funding to provinces with highest demand
-Developers	    Identify growth markets for new construction projects
-Homebuyers	    Understand which regions offer affordable options
-Economists	    Track regional economic indicators for policy planning
-Urban Planners	Make data-driven decisions about infrastructure investment
+Policymakers    -    Target affordable housing funding to provinces with highest demand
+Developers	    -    Identify growth markets for new construction projects
+Homebuyers	    -    Understand which regions offer affordable options
+Economists	    -    Track regional economic indicators for policy planning
+Urban Planners  -	  Make data-driven decisions about infrastructure investment
 
 Useful Outcome
 A predictive model that:
@@ -143,3 +143,4 @@ What This Project Taught Me
 
 
 - This project taught me that real world data science is 20% modeling and 80% everything else data wrangling, stakeholder communication, and problem framing. The technical skills matter, but judgment about which problems to solve and how to frame solutions matters more.
+
