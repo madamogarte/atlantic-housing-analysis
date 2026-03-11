@@ -41,8 +41,6 @@ These files were downloaded from Statistics Canada and CMHC.
 
 \- `real\_housing\_trends.png` - Provincial trends
 
-
-
 \## Setup
 
 1\. Install Python 3.9+
@@ -61,6 +59,16 @@ These files were downloaded from Statistics Canada and CMHC.
 
 For detailed explanations of each Python script, see:
 [`src/README.md`](src/README.md)
+
+\## Visualizations
+
+All graphs are in the [`outputs/`](outputs/) folder with detailed explanations in [`outputs/README.md`](outputs/README.md)
+
+Key visualizations include:
+- `real_housing_visualizations.png` - Main dashboard (4 charts)
+- `feature_importance.png` - What drives housing starts
+- `real_predictions.png` - Model accuracy (99%!)
+
 
 
 
