@@ -156,7 +156,8 @@ This project is licensed under the MIT License - see [LICENSE](https://github.co
 ---
 
 ###  Author
-madamogarte - GitHub Profile
+madamogarte - [GitHub Profile](https://github.com/madamogarte)
+
 Student ID: DA21080_AnnaLynOgarte_DA-Blue
 
 ---
