@@ -125,11 +125,51 @@ After running the model, you should see:
 All 29 datasets are from:
 - **Statistics Canada**: - Housing starts, income, population estimates
 - **CMHC**: - Rental market reports, vacancy rates
-**[See all visualizations with explanations](docs/DATA_SOURCES.md)**
+  
+**[View Complete Data Sources Inventory](docs/DATA_SOURCES.md)**
 
 The inventory includes:
 - Table numbers for each Statistics Canada dataset
 - Descriptions of what each file contains
 - Download instructions and links
+---
+
+### Written Responses
+**[View Answers to the three capstone questions](docs/written_responses.md)**
+
+---
+
+### Key Achievements
+- 29 datasets integrated from Statistics Canada and CMHC
+- 24 database tables created with 10,000+ rows
+- 19 features engineered for machine learning
+- 4 ML models trained and compared
+- 99.3% accuracy in predicting housing starts
+- 6 professional visualizations
+- Generative AI insights generator
+
+---
+
+###  License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+###  Author
+madamogarte - GitHub Profile
+
+DA21080_AnnaLynOgarte_DA-Blue
+
+---
+
+###  Acknowledgments
+- Statistics Canada for providing public data
+- CMHC for rental market reports
+- Skills for Hire Atlantic program
+
+---
+
+### Questions?
+Contact me : ogarteams@gmail.com
 
 
