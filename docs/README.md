@@ -57,4 +57,10 @@ These files were downloaded from Statistics Canada and CMHC.
 
 6\. Run: `python src/enhanced\_ml\_model\_final.py`
 
+\## Source Code Documentation
+
+For detailed explanations of each Python script, see:
+[`src/README.md`](src/README.md)
+
+
 
