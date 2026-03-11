@@ -118,4 +118,18 @@ After running the model, you should see:
   - **New Brunswick**: +245% 
   - **Nova Scotia**: +202% 
   - **Prince Edward Island**: +198% 
-  - **Newfoundland and Labrador**: -50% 
+  - **Newfoundland and Labrador**: -50%
+ ---
+### Data Sources
+
+All 29 datasets are from:
+- **Statistics Canada**: - Housing starts, income, population estimates
+- **CMHC**: - Rental market reports, vacancy rates
+**[See all visualizations with explanations](docs/DATA_SOURCES.md)**
+
+The inventory includes:
+- Table numbers for each Statistics Canada dataset
+- Descriptions of what each file contains
+- Download instructions and links
+
+
