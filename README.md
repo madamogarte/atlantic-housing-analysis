@@ -151,7 +151,7 @@ The inventory includes:
 ---
 
 ###  License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see [LICENSE](https://github.com/madamogarte/atlantic-housing-analysis/blob/main/LICENSE) file for details
 
 ---
 
