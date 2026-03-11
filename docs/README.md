@@ -6,7 +6,16 @@
 
 This project analyzes housing starts across Atlantic Canada (Nova Scotia, New Brunswick, Prince Edward Island, Newfoundland and Labrador) using 29 datasets from Statistics Canada and CMHC (2015-2022).
 
+\## Data Files
 
+All 29 original datasets are available in the [`data/raw/`](data/raw/) folder:
+- Vacancy rates for all 4 provinces
+- Income data (market income and detailed income)
+- Population estimates
+- Average rents for all major Atlantic cities
+- CMHC Rental Market Reports (2019-2025)
+
+These files were downloaded from Statistics Canada and CMHC.
 
 \## Key Results
 
@@ -47,4 +56,5 @@ This project analyzes housing starts across Atlantic Canada (Nova Scotia, New Br
 5\. Run: `python src/load\_all\_datasets.py`
 
 6\. Run: `python src/enhanced\_ml\_model\_final.py`
+
 
