@@ -25,7 +25,7 @@ This folder contains all Python scripts for the project. Below is a detailed exp
 
 **What it does:**
 - Reads housing starts data from Statistics Canada Table 34-10-0139-01
-- Cleans and transforms data (renames columns, converts dates)
+- **Cleans and transforms data (renames columns, converts dates)**
 - Adds province codes (NS, NB, PEI, NL)
 - Creates `atlantic_housing_real` table
 
