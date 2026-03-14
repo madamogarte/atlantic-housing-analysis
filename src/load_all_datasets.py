@@ -131,7 +131,7 @@ with engine.connect() as conn:
     #drop existing master table if it exists (using text())
     conn.execute(text("DROP TABLE IF EXISTS atlantic_master"))
     conn.commit()
-    print("✅ Dropped existing master table")
+    print("Dropped existing master table")
     
     #create base master table with housing starts (using text())
     conn.execute(text("""
