@@ -86,19 +86,20 @@ atlantic-housing-analysis/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/madamogarte/atlantic-housing-analysis.git
-   cd atlantic-housing-analysis   
+   cd atlantic-housing-analysis
 2. **Create and activate Conda environment**
    ```conda create -n atlantic-housing python=3.9 -y
    conda activate atlantic-housing
 3. **Install Python dependencies**   
    ```
    pip install -r docs/requirements.txt
-
+   
 4. **Set up PostgreSQL database**
-   - Python 3.9+
-   - PostgreSQL
-   - Git
-
+   ```
+   - Download PostgreSQL from postgresql.org
+   - Use default port: 5432
+   - Set password to: atlantic2026!
+     
 5. **Load all 29 datasets**
     ```
     python src/load_all_datasets.py
