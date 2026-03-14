@@ -150,6 +150,19 @@ The inventory includes:
 
 ---
 
+## 🎥 Walkthrough Video
+
+📹 **[Watch the video on OneDrive](https://1drv.ms/v/c/30554cb0ac0697d4/IQDW-KtgdAADT5XdNtW-Y0sfAcmUfQDzdTfMEYCLwhlD6Lg)**
+
+**Video Contents:**
+- Introduction & Problem Definition
+- Data Processing (29 datasets loaded)
+- Machine Learning (99.3% accuracy!)
+- Visualizations & Results
+- Generative AI Insights
+- Limitations & Conclusion
+---
+
 ###  License
 This project is licensed under the MIT License - see [LICENSE](https://github.com/madamogarte/atlantic-housing-analysis/blob/main/LICENSE) file for details
 
