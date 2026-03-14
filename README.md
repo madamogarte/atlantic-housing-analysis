@@ -150,9 +150,9 @@ The inventory includes:
 
 ---
 
-## 🎥 Walkthrough Video
+## Walkthrough Video
 
-📹 **[Watch the video on OneDrive](https://1drv.ms/v/c/30554cb0ac0697d4/IQDW-KtgdAADT5XdNtW-Y0sfAcmUfQDzdTfMEYCLwhlD6Lg)**
+**[Watch the video on OneDrive](https://1drv.ms/v/c/30554cb0ac0697d4/IQDW-KtgdAADT5XdNtW-Y0sfAcmUfQDzdTfMEYCLwhlD6Lg)**
 
 **Video Contents:**
 - Introduction & Problem Definition
